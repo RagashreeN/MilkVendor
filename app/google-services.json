@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "352982382191",
+    "firebase_url": "https://milkvendor-79592.firebaseio.com",
+    "project_id": "milkvendor-79592",
+    "storage_bucket": "milkvendor-79592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352982382191:android:277423b461c273e30dff9a",
+        "android_client_info": {
+          "package_name": "com.milk.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352982382191-ef2l60s2ae7pmtchqcvbc0grlo0aenvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.milk.vendor",
+            "certificate_hash": "fe3de7c0dc7f444befb5a889e42026a77641960e"
+          }
+        },
+        {
+          "client_id": "352982382191-otv1k6of6fnrq2hchj6eflcnp5vg9s7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1MziIRIRSJQvyX6umIfHT3VFoJgNGdWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352982382191-otv1k6of6fnrq2hchj6eflcnp5vg9s7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
