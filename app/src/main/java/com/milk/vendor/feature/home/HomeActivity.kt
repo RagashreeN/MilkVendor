@@ -183,7 +183,7 @@ class HomeActivity : AppCompatActivity() ,HomeRecyclerAdapter.UpdateUI{
                     arraylistProduct.add(productInner)
                 }
                 databinding.root.progressbar_login.visibility = View.GONE
-                databinding.root.layout_payment.visibility=View.GONE
+                databinding.root.layout_payment.visibility=View.VISIBLE
                 displayList()
             }
 
